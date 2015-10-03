@@ -1,0 +1,1 @@
+a:2:{i:0;a:7:{s:9:"banner_id";s:2:"15";s:5:"width";s:3:"280";s:6:"height";s:3:"298";s:9:"layout_id";s:1:"3";s:8:"position";s:11:"column_left";s:6:"status";s:1:"1";s:10:"sort_order";s:1:"5";}i:1;a:7:{s:9:"banner_id";s:2:"14";s:5:"width";s:3:"282";s:6:"height";s:3:"408";s:9:"layout_id";s:1:"3";s:8:"position";s:11:"column_left";s:6:"status";s:1:"1";s:10:"sort_order";s:1:"4";}}
